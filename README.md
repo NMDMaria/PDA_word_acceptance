@@ -7,3 +7,5 @@ Input form:
 5. Number of transitions.
 6. The ... transitions like: `state-start` `end-state` `letter` `pop` `push`
 7. The word to be verified.
+
+$ = lambda or epsilon - means no letter or states to pop/push.
